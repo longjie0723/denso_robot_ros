@@ -129,7 +129,7 @@
       <child link="J3" />
       <origin rpy="0.000000 0.000000 0.000000" xyz="0.000000 0.000000 0.340" />
       <axis xyz="0.000000 1.000000 0.000000" />
-      <limit effort="1" lower="0.6981317007977318" upper="2.356194490192345" velocity="2.85832571599111" />
+      <limit effort="1" lower="0.9594" upper="2.356194490192345" velocity="2.85832571599111" />
       <dynamics damping="0" friction="0" />
     </joint>
     <transmission name="trans_3">
